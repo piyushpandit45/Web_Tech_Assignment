@@ -1,2 +1,1 @@
-# Web_Tech_Assignment
-Piyush Kumar Ameta from section B2
+#email validation
